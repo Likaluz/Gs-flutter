@@ -157,13 +157,6 @@ All tests passed!
 
 ---
 
-## ODS atendidos
-
-- **ODS 2 - Fome Zero e Agricultura Sustentavel:** monitoramento que ajuda a aumentar produtividade e reduzir perdas nas lavouras.
-- **ODS 9 - Industria, Inovacao e Infraestrutura:** uso de dados de satelite e tecnologia para modernizar a agricultura.
-
----
-
 ## Integrantes do grupo
 
 | Nome | RM |
