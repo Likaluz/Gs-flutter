@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922113700110",
+    "project_id": "gs-flutter-4ff09",
+    "storage_bucket": "gs-flutter-4ff09.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922113700110:android:8cc43333450c23336d675f",
+        "android_client_info": {
+          "package_name": "com.example.agrospace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk0Oa1rKR9YBitb1WMmKMaWaSuT4hEREM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
