@@ -131,7 +131,7 @@ flutter test
 | `firebase_core` | Inicializacao do Firebase |
 | `cloud_firestore` | Persistencia remota das lavouras |
 | `shared_preferences` | Fallback local quando Firebase nao inicializa |
-| `flutter_lints` | Analise estatica e boas praticas |
+
 
 ---
 
