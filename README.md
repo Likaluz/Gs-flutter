@@ -18,6 +18,16 @@ O resultado e apresentado em uma tela de diagnostico visual, com indicadores de 
 
 ---
 
+## Integrantes do grupo
+
+| Nome | RM |
+|------|----|
+| Diogo Witzel | RM552754 |
+| Lucas Domingues | RM553304 |
+| Victor Morelli | RM553338 |
+
+---
+
 ## Fluxo do aplicativo
 
 1. **Home**: apresenta a proposta da solucao, o passo a passo de uso e os ODS atendidos.
@@ -157,15 +167,6 @@ All tests passed!
 
 ---
 
-## Integrantes do grupo
-
-| Nome | RM |
-|------|----|
-| Diogo Witzel | RM552754 |
-| Lucas Domingues | RM553304 |
-| Victor Morelli | RM553338 |
-
----
 
 ## Links
 
